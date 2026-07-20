@@ -1,0 +1,21 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="1200" height="630" fill="#0A0A0A"/>
+
+  <rect x="0" y="0" width="1200" height="4" fill="#B7202E"/>
+
+  <rect x="80" y="70" width="21" height="7" rx="2" fill="#FAFAF8"/>
+  <rect x="80" y="85" width="32" height="7" rx="2" fill="#FAFAF8"/>
+  <rect x="80" y="100" width="43.5" height="7" rx="2" fill="#D6303F"/>
+  <text x="140" y="97" font-family="Georgia, serif" font-size="26" font-weight="600" fill="#FAFAF8">The Ledger Brief</text>
+
+  <text x="80" y="200" font-family="'Courier New', monospace" font-size="15" font-weight="700" letter-spacing="1.5" fill="#D6303F">BRIEF NO. 003 — CASE STUDY</text>
+
+  <text x="78" y="280" font-family="Georgia, serif" font-size="46" font-weight="700" fill="#FAFAF8">Inside a Bank's AI</text>
+  <text x="78" y="345" font-family="Georgia, serif" font-size="46" font-weight="700" fill="#FAFAF8">Fraud Detection System:</text>
+  <text x="78" y="410" font-family="Georgia, serif" font-size="46" font-weight="700" fill="#FAFAF8">How It Really Works</text>
+
+  <text x="80" y="470" font-family="Georgia, serif" font-size="22" fill="#B8B8B4">From build to deployment, in the team's own words</text>
+
+  <rect x="80" y="540" width="4" height="24" fill="#D6303F"/>
+  <text x="98" y="558" font-family="'Courier New', monospace" font-size="14" font-weight="700" letter-spacing="1.2" fill="#D6303F">FINANCE &#8212; AI &#8212; TECHNOLOGY</text>
+</svg>
